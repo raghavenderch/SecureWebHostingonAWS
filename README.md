@@ -1,6 +1,6 @@
 <h1>Secure Web Hosting on AWS</h1>
 
-<a>In this project I have built a simple and secure serverless web application using various AWS services.</a>
+<a>In this project I hosted a simple and secure serverless web application using various AWS services.</a>
 
 <h3>Services Used</h3>
 <ul>
